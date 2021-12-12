@@ -12,7 +12,7 @@
             margin-left: 10px
         }
     }
-    .visual {
+    .project {
         margin-top: 100px;
         h1 {
             text-align: center;
@@ -221,6 +221,24 @@
                     }
                 }
             }
+        }
+    }
+
+    #visual {
+        h2 {
+            margin-top: 20px;
+        }
+        border: 3px solid #ccc;
+        border-radius: 10px;
+        width: 1150px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        padding: 10px;
+    #visual img {
+        max-width: 1400px;
+    }
+        .visual_list {
+            text-align: center; margin: 20px;
         }
     }
     .contents_bottom {
